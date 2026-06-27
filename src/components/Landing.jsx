@@ -299,7 +299,7 @@ export default function LandingPage() {
                             We are the leading social media marketplace that connects brands with their customers With our user-friendly interface.
                         </p>
                     </div>
-                    <div className="flex mt-[24px]">
+                    <div className="flex mt-[18px]">
                         <Link to="/" className="flex items-center justify-center font-['Rethink_Sans'] font-normal text-[14px] text-center text-[#ffffff] w-[156px] h-[40px] bg-gradient-to-r from-[#9810FA] to-[#2B7FFF] rounded-[12px] hover:opacity-80 transition-opacity">
                             Get Started Today
                         </Link>
