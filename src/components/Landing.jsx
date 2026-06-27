@@ -187,7 +187,7 @@ export default function LandingPage() {
                     Search
                 </Link>
             </div>
-            <div className="flex flex-col mt-[64px] items-center">
+            <div className="flex flex-col mt-[64px] items-center text-center">
                 <p className="font-['Rethink_Sans'] font-bold text-[24px] text-[#1E2939]">
                     Latest Listings
                 </p>
