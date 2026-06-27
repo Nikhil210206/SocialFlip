@@ -17,19 +17,19 @@ export default function Footer() {
                         <h2 className="font-['Rethink_Sans'] font-semibold text-[14px] leading-[20px] text-[#1E2939]">Company</h2>
                         <ul className="flex flex-col gap-[10px] mt-[20px]">
                             <li>
-                                <Link to="#" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">About us</Link>
+                                <Link to="/" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">About us</Link>
                             </li>
                             <li className="flex items-center gap-[8px]">
-                                <Link to="#" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">Careers</Link>
+                                <Link to="/" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">Careers</Link>
                                 <div className="flex items-center justify-center w-[83px] h-[24px] bg-[#4F39F6] rounded-[6px]">
                                     <span className="font-['Rethink_Sans'] font-normal text-[12px] text-[#FFFFFF]">We’re hiring!</span>
                                 </div>
                             </li>
                             <li>
-                                <Link to="#" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">Contact us</Link>
+                                <Link to="/" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">Contact us</Link>
                             </li>
                             <li>
-                                <Link to="#" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">Privacy policy</Link>
+                                <Link to="/" className="font-['Rethink_Sans'] font-normal text-[14px] leading-[20px] text-[#62748E]">Privacy policy</Link>
                             </li>
                         </ul>
                     </div>
