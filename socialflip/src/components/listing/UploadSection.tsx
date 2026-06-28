@@ -69,7 +69,6 @@ function FileCard({ uploadedFile, onRemove }: FileCardProps) {
 export default function UploadSection() {
   const {
     setValue,
-    watch,
     formState: { errors },
   } = useFormContext<ListingSchema>();
 

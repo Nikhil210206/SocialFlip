@@ -34,7 +34,7 @@ export default function ListingForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const methods = useForm<ListingSchema>({
-    resolver: zodResolver(listingSchema),
+    resolver: zodResolver(listingSchema) as any,
     defaultValues,
     mode: "onTouched",
   });

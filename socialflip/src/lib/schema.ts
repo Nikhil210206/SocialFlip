@@ -118,7 +118,7 @@ export const listingSchema = z.object({
         )
     )
     .max(MAX_FILES, `You can upload a maximum of ${MAX_FILES} files`)
-    .default([]),
+    .optional(),
 });
 
 export type ListingSchema = z.infer<typeof listingSchema>;
