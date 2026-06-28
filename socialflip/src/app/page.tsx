@@ -6,9 +6,10 @@ export default function Page() {
       {/* Navbar */}
       <nav className="bg-white border-b border-gray-200 px-6 py-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
-          <div className="text-xl font-bold text-gray-900">
-            flip<span className="text-blue-600">earn</span>
-            <span className="text-blue-600">.</span>
+          <div className="text-xl font-bold">
+            <span className="text-indigo-600">flip</span>
+            <span className="text-gray-900">earn</span>
+            <span className="text-indigo-600">.</span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             <a href="#" className="text-sm text-gray-600 hover:text-gray-900 transition-colors">
@@ -33,7 +34,7 @@ export default function Page() {
       {/* Page Content */}
       <main className="max-w-3xl mx-auto px-4 py-10">
         <div className="rounded-xl p-6 bg-white shadow-sm">
-          <h1 className="text-2xl font-bold text-gray-900 mb-1">List Your Account</h1>
+          <h1 className="text-2xl font-bold text-gray-900 mb-8">List Your Account</h1>
 
           <ListingForm />
         </div>
