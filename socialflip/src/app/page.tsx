@@ -34,9 +34,7 @@ export default function Page() {
       <main className="max-w-3xl mx-auto px-4 py-10">
         <div className="rounded-xl p-6 bg-white shadow-sm">
           <h1 className="text-2xl font-bold text-gray-900 mb-1">List Your Account</h1>
-          <p className="text-sm text-gray-500 mb-8">
-            Create a mock listing to display your account info
-          </p>
+
           <ListingForm />
         </div>
       </main>
