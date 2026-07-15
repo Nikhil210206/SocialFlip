@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "platform": "tiktok",
+    "title": "Fitness TikTok with 300k Followers",
+    "username": "@fitwithdavid",
+    "followers": "300K",
+    "engagement": "5.2",
+    "category": "Fitness",
+    "country": "UK",
+    "price": 12000,
+    "verified": true,
+    "monetized": true,
+    "description": "Highly engaged fitness account with clean content, sponsorship opportunities, and excellent growth metrics.",
+    "watchCount": 143,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 260000
+      },
+      {
+        "month": "Feb",
+        "value": 272000
+      },
+      {
+        "month": "Mar",
+        "value": 280000
+      },
+      {
+        "month": "Apr",
+        "value": 288000
+      },
+      {
+        "month": "May",
+        "value": 295000
+      },
+      {
+        "month": "Jun",
+        "value": 300000
+      }
+    ],
+    "offers": [
+      {
+        "buyer": "Alex",
+        "amount": 10500
+      },
+      {
+        "buyer": "Sophia",
+        "amount": 11000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "platform": "youtube",
+    "title": "Tech YouTube Channel with 120k Subscribers",
+    "username": "@TechSavvyAlex",
+    "followers": "120K",
+    "engagement": "4.1",
+    "category": "Tech & Gadgets",
+    "country": "USA",
+    "price": 7500,
+    "verified": true,
+    "monetized": true,
+    "description": "Established tech channel with high engagement and steady ad revenue. Includes full transfer and assets.",
+    "watchCount": 89,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 102000
+      },
+      {
+        "month": "Feb",
+        "value": 105000
+      },
+      {
+        "month": "Mar",
+        "value": 110000
+      },
+      {
+        "month": "Apr",
+        "value": 112000
+      },
+      {
+        "month": "May",
+        "value": 115000
+      },
+      {
+        "month": "Jun",
+        "value": 120000
+      }
+    ],
+    "offers": [
+      {
+        "buyer": "John",
+        "amount": 6800
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "platform": "instagram",
+    "title": "Travel Instagram Page with 50k Followers",
+    "username": "@wanderlust.sophia",
+    "followers": "50K",
+    "engagement": "3.5",
+    "category": "Travel",
+    "country": "Canada",
+    "price": 2800,
+    "verified": true,
+    "monetized": false,
+    "description": "Beautifully curated travel page with loyal audience and collaboration history with travel brands.",
+    "watchCount": 64,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 42000
+      },
+      {
+        "month": "Feb",
+        "value": 44000
+      },
+      {
+        "month": "Mar",
+        "value": 45000
+      },
+      {
+        "month": "Apr",
+        "value": 47000
+      },
+      {
+        "month": "May",
+        "value": 48500
+      },
+      {
+        "month": "Jun",
+        "value": 50000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 4,
+    "platform": "pinterest",
+    "title": "Fashion Pinterest Board with 90k Monthly Views",
+    "username": "@stylebyalex",
+    "followers": "15K",
+    "engagement": "4.8",
+    "category": "Fashion",
+    "country": "USA",
+    "price": 950,
+    "verified": false,
+    "monetized": false,
+    "description": "Highly active fashion and design inspiration board with organic traffic and steady audience growth.",
+    "watchCount": 35,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 12000
+      },
+      {
+        "month": "Feb",
+        "value": 13000
+      },
+      {
+        "month": "Mar",
+        "value": 13500
+      },
+      {
+        "month": "Apr",
+        "value": 14000
+      },
+      {
+        "month": "May",
+        "value": 14500
+      },
+      {
+        "month": "Jun",
+        "value": 15000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 5,
+    "platform": "twitch",
+    "title": "Music Twitch Channel with 20k Followers",
+    "username": "@SophiaBeats",
+    "followers": "20K",
+    "engagement": "6.0",
+    "category": "Music & Audio",
+    "country": "UK",
+    "price": 3800,
+    "verified": true,
+    "monetized": true,
+    "description": "Active music streaming channel with custom overlays, subscriber emotes, and loyal community.",
+    "watchCount": 51,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 16000
+      },
+      {
+        "month": "Feb",
+        "value": 17000
+      },
+      {
+        "month": "Mar",
+        "value": 18000
+      },
+      {
+        "month": "Apr",
+        "value": 18500
+      },
+      {
+        "month": "May",
+        "value": 19000
+      },
+      {
+        "month": "Jun",
+        "value": 20000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 6,
+    "platform": "linkedin",
+    "title": "Business LinkedIn Page with 10k Connections",
+    "username": "@markbusiness",
+    "followers": "10K",
+    "engagement": "2.8",
+    "category": "Business",
+    "country": "USA",
+    "price": 1800,
+    "verified": false,
+    "monetized": false,
+    "description": "Professional network page with high organic engagement on enterprise software and B2B articles.",
+    "watchCount": 24,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 8500
+      },
+      {
+        "month": "Feb",
+        "value": 8800
+      },
+      {
+        "month": "Mar",
+        "value": 9000
+      },
+      {
+        "month": "Apr",
+        "value": 9200
+      },
+      {
+        "month": "May",
+        "value": 9600
+      },
+      {
+        "month": "Jun",
+        "value": 10000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 7,
+    "platform": "discord",
+    "title": "Gaming Discord Server with 5k Members",
+    "username": "@GamingHub",
+    "followers": "5K",
+    "engagement": "8.5",
+    "category": "Gaming",
+    "country": "Global",
+    "price": 600,
+    "verified": true,
+    "monetized": false,
+    "description": "Active community server with auto-moderation bots, custom rank levels, and partner-ready status.",
+    "watchCount": 78,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 4100
+      },
+      {
+        "month": "Feb",
+        "value": 4300
+      },
+      {
+        "month": "Mar",
+        "value": 4500
+      },
+      {
+        "month": "Apr",
+        "value": 4600
+      },
+      {
+        "month": "May",
+        "value": 4800
+      },
+      {
+        "month": "Jun",
+        "value": 5000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 8,
+    "platform": "twitter",
+    "title": "Lifestyle Twitter/X with 40k Followers",
+    "username": "@lifestylejenna",
+    "followers": "40K",
+    "engagement": "4.2",
+    "category": "Lifestyle",
+    "country": "USA",
+    "price": 1400,
+    "verified": false,
+    "monetized": true,
+    "description": "Lifestyle and self-care account with high thread impressions and organic search visibility.",
+    "watchCount": 42,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 34000
+      },
+      {
+        "month": "Feb",
+        "value": 35000
+      },
+      {
+        "month": "Mar",
+        "value": 37000
+      },
+      {
+        "month": "Apr",
+        "value": 38000
+      },
+      {
+        "month": "May",
+        "value": 39000
+      },
+      {
+        "month": "Jun",
+        "value": 40000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 9,
+    "platform": "facebook",
+    "title": "Food Facebook Page with 80k Likes",
+    "username": "@foodiesunite",
+    "followers": "80K",
+    "engagement": "3.1",
+    "category": "Food & Cooking",
+    "country": "Australia",
+    "price": 2200,
+    "verified": true,
+    "monetized": true,
+    "description": "Daily recipe sharing page with video monetization enabled and brand deal partnerships.",
+    "watchCount": 61,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 72000
+      },
+      {
+        "month": "Feb",
+        "value": 74000
+      },
+      {
+        "month": "Mar",
+        "value": 75000
+      },
+      {
+        "month": "Apr",
+        "value": 77000
+      },
+      {
+        "month": "May",
+        "value": 78000
+      },
+      {
+        "month": "Jun",
+        "value": 80000
+      }
+    ],
+    "offers": []
+  },
+  {
+    "id": 10,
+    "platform": "youtube",
+    "title": "Beauty YouTube Channel with 200k Subscribers",
+    "username": "@glambysarah",
+    "followers": "200K",
+    "engagement": "4.9",
+    "category": "Beauty & Makeup",
+    "country": "USA",
+    "price": 15000,
+    "verified": true,
+    "monetized": true,
+    "description": "High-payout beauty channel with sponsorships, brand contracts, and active monthly viewers.",
+    "watchCount": 195,
+    "growthData": [
+      {
+        "month": "Jan",
+        "value": 180000
+      },
+      {
+        "month": "Feb",
+        "value": 185000
+      },
+      {
+        "month": "Mar",
+        "value": 190000
+      },
+      {
+        "month": "Apr",
+        "value": 192000
+      },
+      {
+        "month": "May",
+        "value": 196000
+      },
+      {
+        "month": "Jun",
+        "value": 200000
+      }
+    ],
+    "offers": []
+  }
+]

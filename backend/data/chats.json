@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "partner": "@TechSavvyAlex",
+    "sender": "buyer",
+    "text": "Hi, I am interested in buying your tech channel. Is the price negotiable?",
+    "timestamp": "10:30 AM"
+  },
+  {
+    "id": 2,
+    "partner": "@TechSavvyAlex",
+    "sender": "seller",
+    "text": "Hello! The price is slightly negotiable, but I have already received several offers near the buyout price.",
+    "timestamp": "10:35 AM"
+  },
+  {
+    "id": 3,
+    "partner": "@TechSavvyAlex",
+    "sender": "buyer",
+    "text": "I see. If I buy it at the full buyout price, can we initiate escrow transfer today?",
+    "timestamp": "10:38 AM"
+  },
+  {
+    "id": 4,
+    "partner": "@TechSavvyAlex",
+    "sender": "seller",
+    "text": "Yes, absolutely! The credentials, verification logs, and associated email are all prepared for immediate transfer.",
+    "timestamp": "10:40 AM"
+  },
+  {
+    "id": 5,
+    "partner": "@wanderlust.sophia",
+    "sender": "buyer",
+    "text": "Hey Sophia! I love the aesthetics of your travel page. What is the active reach per post?",
+    "timestamp": "Yesterday"
+  },
+  {
+    "id": 6,
+    "partner": "@wanderlust.sophia",
+    "sender": "seller",
+    "text": "Hi! Organic post reach averages around 15k to 20k impressions, with reels going up to 100k.",
+    "timestamp": "Yesterday"
+  }
+]

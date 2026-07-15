@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .navbar {
+    @apply fixed top-0  left-0 w-full px-6 lg:px-[128px] flex items-center justify-between z-[100] h-[72px] bg-white;
+  }
+
+  .logo-container {
+    @apply flex-1;
+  }
+
+  .logo {
+    width: 122px;
+    height: 40px;
+    flex-shrink: 0;
+  }
+
+  .nav-links-container {
+    @apply hidden lg:flex items-center gap-8;
+  }
+
+  .nav-link {
+    @apply text-gray-500 hover:text-black;
+    font-family: 'Rethink Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0;
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+  }
+
+  .nav-link.active {
+    @apply text-black;
+  }
+
+  .actions-container {
+    @apply flex-1 flex justify-end;
+  }
+
+  .btn-login {
+    @apply hidden lg:flex items-center justify-center text-white bg-[#615FFF] rounded-full h-[40px] px-[32px] transition-colors hover:bg-[#4F39F6];
+    font-family: 'Rethink Sans', sans-serif;
+  }
+
+  .btn-hamburger {
+    @apply lg:hidden flex items-center justify-center text-black;
+  }
+}
+
+.range-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #7c3aed;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 0 0 1px #7c3aed, 0 2px 4px rgba(124, 58, 237, 0.3);
+  transition: box-shadow 0.2s;
+}
+.range-slider::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 0 1px #7c3aed, 0 2px 8px rgba(124, 58, 237, 0.5);
+}
+.range-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #7c3aed;
+  cursor: pointer;
+  border: 2px solid white;
+  box-shadow: 0 0 0 1px #7c3aed;
+}
